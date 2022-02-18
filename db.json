@@ -1,4 +1,6 @@
-[
+
+{
+"movies" : [
   {
     "id": 100,
     "banner": "https://m.media-amazon.com/images/M/MV5BNmZkOThkNWYtOTY1ZC00MzZiLWExMDEtMTNhZDcyOGZiZTM5XkEyXkFqcGdeQXVyMTA5MTkyMzU2._V1_.jpg",
@@ -15,3 +17,4 @@
     "summary": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form",
     "trailer": "https://www.youtube.com/embed/N_nqMUroKsc"
   }]
+}
